@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Adds The Following:
+
+- A very basic Create-React-App which implements the Auth0 authentication framework
+- Auth0 authentication to allow for users to authenticate in and out via Auth
+- Uses memory storage to save and keep tokens for Single-SignOn
+- (Expected to ) Add Server side session token control for added security
+
 ## Available Scripts
 
 In the project directory, you can run:
